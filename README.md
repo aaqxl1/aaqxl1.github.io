@@ -27,21 +27,36 @@ Developed an Ai Machine Learning model using **Python** and data science techniq
 
 ## Tableau Dashboards
 
-### Maven Sales Challenge Dashboard
+### Maven Sales Challenge Dashboard <br>
 
-![maven sales challenge](/assets/img/maven_sales_challenge.jpg)
-<p align="center">
-  [Link to Dashboard](https://public.tableau.com/views/SalesPerformancebyQuarter/MavenSalesPerformancebyQuarter?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+![maven sales challenge](/assets/img/maven_sales_challenge.jpg) <p align='center'>
+[Link to Dashboard](https://public.tableau.com/views/SalesPerformancebyQuarter/MavenSalesPerformancebyQuarter?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 </p>
+The Maven Analytics Data Challenge involves the creation of an interactive dashboard for MavenTech, a company specializing in computer hardware sales to large businesses. As a BI Developer, my primary objective is to provide sales managers with a tool to monitor quarterly performance based on data sourced from a CRM database. <br><br>
 
-The Maven Analytics Data Challenge involves the creation of an interactive dashboard for MavenTech, a company specializing in computer hardware sales to large businesses. As a BI Developer, my primary objective is to provide sales managers with a tool to monitor quarterly performance based on data sourced from a CRM database.
+### Global CO2 Emissions <br>
 
-### Global CO2 Emissions
-
-![Global CO2 Emissions](/assets/img/Global_CO2_Emissions.jpg)
-<p align='center'>
-  [Link to Dashboard](https://public.tableau.com/views/GlobalC02Emissions_17114820201530/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+![Global CO2 Emissions](/assets/img/Global_CO2_Emissions.jpg) <p align='center'>
+[Link to Dashboard](https://public.tableau.com/views/GlobalC02Emissions_17114820201530/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 </p>
+This project focuses on three key objectives. Firstly, a dynamic line chart depicted the percentage share of CO2 emissions by year for the top 10 countries. Secondly, a country-level map illustrated CO2 emissions per capita in 2021. Lastly, a scatter plot compared CO2 emissions and population, with bubble sizes indicating Temperature Change From CO2 in 2021, complemented by a linear regression trend line.
+Through these visualizations, the project provided actionable insights into the relationship between CO2 emissions, population dynamics, and environmental impacts, empowering informed decision-making to address climate change globally. <br><br>
 
-This project focuses on three key objectives. Firstly, a dynamic line chart depicted the percentage share of CO2 emissions by year for the top 10 countries. Secondly, a country-level map illustrated CO2 emissions per capita in 2021. Lastly, a scatter plot compared CO2 emissions and population, with bubble sizes indicating Temperature Change From CO2 in 2021, complemented by a linear regression trend line. Through these visualizations, the project provided actionable insights into the relationship between CO2 emissions, population dynamics, and environmental impacts, empowering informed decision-making to address climate change globally.
+### Data Science Module Project <br>
 
+![Data Science Module Project](/assets/img/Data_Science_Module.jpg) <p align='center'>
+[Link to Dashboard](https://public.tableau.com/views/XYZBusinessAnalysis_17110368464760/XYZBusinessAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+</p>
+This dashboard represents the culmination of my efforts in analyzing data provided by the university, where I delved into data cleaning within Tableau, employing custom splits and proficiently handling null values.
+
+🎓 Developed as part of my Applied Data Science module at Liverpool John Moores University, this dashboard showcases an array of insightful charts:
+
+🗺️ Map: Visualizing product quantity by state. <br>
+📊 Side-by-Side Bar Chart: Breaking down product quantity by cities within states. <br>
+🌲 Tree Map: Illustrating total USD spent by each state on products. <br>
+🔍 Highlight Table: Comparing total quantity sold and total USD spent per product. <br>
+📈 Bar Chart: Identifying the most ordered products across states. <br>
+
+
+
+  
