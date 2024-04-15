@@ -3,7 +3,8 @@
 #### Technical Skills: Tableau, Python, SQL, Excel
 
 ### Education
-BSc Hons, Computer Science | First Grade Honors (4.0 GPA) | Liverpool John Moores University (_April 2024_)
+BSc Hons, Computer Science | First Grade Honors (4.0 GPA) <br>
+Liverpool John Moores University (_April 2024_)
 
 ### Work Experience
 **Data Scientist Intern @ Metary (_May 2023 - October 2023_)**
