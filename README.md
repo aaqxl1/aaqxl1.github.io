@@ -24,3 +24,6 @@ Developed an Ai Machine Learning model using **Python** and data science techniq
 - Analyzing the data using various libraries such as pandas, numpy, matplotlib, and scikitlearn.
 - Visualizing the data to understand the dataset better, mainly utilizing seaborn for bar charts, jointplots and scatterplots.
 - Using 3 different machine learning models, then picking the most suitable model based on their test scores.
+
+## Tableau Dashboards
+
