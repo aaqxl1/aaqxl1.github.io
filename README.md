@@ -32,30 +32,23 @@ Developed an Ai Machine Learning model using **Python** and data science techniq
 ![maven sales challenge](/assets/img/maven_sales_challenge.jpg) <br>
 [Link to Dashboard](https://public.tableau.com/views/SalesPerformancebyQuarter/MavenSalesPerformancebyQuarter?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) <br>
 
-The Maven Analytics Data Challenge involves the creation of an interactive dashboard for MavenTech, a company specializing in computer hardware sales to large businesses. As a BI Developer, my primary objective is to provide sales managers with a tool to monitor quarterly performance based on data sourced from a CRM database. <br><br>
+Embark on the journey of transforming data into actionable insights with the Maven Analytics Data Challenge. This initiative is dedicated to crafting an immersive interactive dashboard tailored for MavenTech, a distinguished enterprise excelling in computer hardware sales for corporate clientele. In my role as a BI Developer, I orchestrate the mission of empowering sales managers with a dynamic toolset, meticulously designed to facilitate real-time monitoring of quarterly performance metrics, all driven by comprehensive data derived from a robust CRM database. <br><br>
 
 ### Global CO2 Emissions <br>
 
 ![Global CO2 Emissions](/assets/img/Global_CO2_Emissions.jpg) <br>
 [Link to Dashboard](https://public.tableau.com/views/GlobalC02Emissions_17114820201530/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) <br>
 
-This project focuses on three key objectives. Firstly, a dynamic line chart depicted the percentage share of CO2 emissions by year for the top 10 countries. Secondly, a country-level map illustrated CO2 emissions per capita in 2021. Lastly, a scatter plot compared CO2 emissions and population, with bubble sizes indicating Temperature Change From CO2 in 2021, complemented by a linear regression trend line.
-Through these visualizations, the project provided actionable insights into the relationship between CO2 emissions, population dynamics, and environmental impacts, empowering informed decision-making to address climate change globally. <br><br>
+This project is meticulously structured around three pivotal objectives. Initially, a dynamic line chart captures the evolving percentage share of CO2 emissions by year, spotlighting the top 10 countries. Following this, a comprehensive country-level map delineates CO2 emissions per capita for the year 2021. Lastly, a sophisticated scatter plot delves into the intricate interplay between CO2 emissions and population, accentuated by bubble sizes representing Temperature Change From CO2 in 2021, further enhanced by a discerning linear regression trend line.
+
+These meticulously crafted visualizations serve as a beacon of insight, unraveling the intricate relationship between CO2 emissions, population dynamics, and their profound environmental repercussions. By empowering stakeholders with actionable insights, this project fosters informed decision-making essential for tackling the global challenge of climate change. <br><br>
 
 ### Data Science Module Project <br>
 
 ![Data Science Module Project](/assets/img/Data_Science_Module.jpg) <br>
 [Link to Dashboard](https://public.tableau.com/views/XYZBusinessAnalysis_17110368464760/XYZBusinessAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)<br>
 
-This dashboard represents the culmination of my efforts in analyzing data provided by the university, where I delved into data cleaning within Tableau, employing custom splits and proficiently handling null values.
-
-🎓 Developed as part of my Applied Data Science module at Liverpool John Moores University, this dashboard showcases an array of insightful charts:
-
-🗺️ Map: Visualizing product quantity by state. <br>
-📊 Side-by-Side Bar Chart: Breaking down product quantity by cities within states. <br>
-🌲 Tree Map: Illustrating total USD spent by each state on products. <br>
-🔍 Highlight Table: Comparing total quantity sold and total USD spent per product. <br>
-📈 Bar Chart: Identifying the most ordered products across states. <br>
+This dashboard epitomizes the culmination of my dedicated efforts in meticulously analyzing university-provided data, where I undertook a thorough exploration of data cleaning techniques within Tableau. Through adept utilization of custom splits and adept management of null values, I ensured data integrity and clarity throughout the visualization process. Crafted as a pivotal component of my Applied Data Science module at Liverpool John Moores University, this dashboard serves as a testament to my prowess in data analysis, featuring an eclectic mix of insightful visualizations. <br><br>
 
 
 
