@@ -2,11 +2,11 @@
 
 #### Technical Skills: Tableau, Python, SQL, Excel
 
-### Education
+## Education
 BSc Hons, Computer Science | First Grade Honors (4.0 GPA) <br>
 Liverpool John Moores University (_April 2024_)
 
-### Work Experience
+## Work Experience
 **Data Scientist Intern @ Metary (_May 2023 - October 2023_)**
 -	Employed Microsoft SQL Server DBMS for comprehensive data cleaning procedures.
 -	Developed dynamic dashboards utilizing Tableau to effectively communicate complex blockchain data.
@@ -50,6 +50,10 @@ These meticulously crafted visualizations serve as a beacon of insight, unraveli
 
 This dashboard epitomizes the culmination of my dedicated efforts in meticulously analyzing university-provided data, where I undertook a thorough exploration of data cleaning techniques within Tableau. Through adept utilization of custom splits and adept management of null values, I ensured data integrity and clarity throughout the visualization process. Crafted as a pivotal component of my Applied Data Science module at Liverpool John Moores University, this dashboard serves as a testament to my prowess in data analysis, featuring an eclectic mix of insightful visualizations. <br><br>
 
+## Certifications
 
+### Tableau Desktop Specialist
 
-  
+![
+
+With a stellar achievement of 97%, this certification validates my proficiency in leveraging Tableau Desktop to analyze, visualize, and share data insights effectively. Through rigorous training and hands-on experience, I've demonstrated expertise in creating impactful visualizations, manipulating data, and crafting intuitive dashboards to drive informed decision-making. This certification serves as a testament to my dedication to mastering Tableau's powerful analytics platform and underscores my ability to deliver compelling data-driven solutions.
