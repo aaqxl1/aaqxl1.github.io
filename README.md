@@ -54,6 +54,6 @@ This dashboard epitomizes the culmination of my dedicated efforts in meticulousl
 
 ### Tableau Desktop Specialist
 
-![
+![Tableau Desktop](/assets/img/tableau_desktop.jpg) <br>
 
 With a stellar achievement of 97%, this certification validates my proficiency in leveraging Tableau Desktop to analyze, visualize, and share data insights effectively. Through rigorous training and hands-on experience, I've demonstrated expertise in creating impactful visualizations, manipulating data, and crafting intuitive dashboards to drive informed decision-making. This certification serves as a testament to my dedication to mastering Tableau's powerful analytics platform and underscores my ability to deliver compelling data-driven solutions.
