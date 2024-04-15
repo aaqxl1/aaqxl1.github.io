@@ -30,12 +30,18 @@ Developed an Ai Machine Learning model using **Python** and data science techniq
 ### Maven Sales Challenge Dashboard
 
 ![maven sales challenge](/assets/img/maven_sales_challenge.jpg)
+<p align="center">
+  [Link to Dashboard](https://public.tableau.com/views/SalesPerformancebyQuarter/MavenSalesPerformancebyQuarter?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+</p>
 
 The Maven Analytics Data Challenge involves the creation of an interactive dashboard for MavenTech, a company specializing in computer hardware sales to large businesses. As a BI Developer, my primary objective is to provide sales managers with a tool to monitor quarterly performance based on data sourced from a CRM database.
 
 ### Global CO2 Emissions
 
 ![Global CO2 Emissions](/assets/img/Global_CO2_Emissions.jpg)
+<p align='center'>
+  [Link to Dashboard](https://public.tableau.com/views/GlobalC02Emissions_17114820201530/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+</p>
 
 This project focuses on three key objectives. Firstly, a dynamic line chart depicted the percentage share of CO2 emissions by year for the top 10 countries. Secondly, a country-level map illustrated CO2 emissions per capita in 2021. Lastly, a scatter plot compared CO2 emissions and population, with bubble sizes indicating Temperature Change From CO2 in 2021, complemented by a linear regression trend line. Through these visualizations, the project provided actionable insights into the relationship between CO2 emissions, population dynamics, and environmental impacts, empowering informed decision-making to address climate change globally.
 
