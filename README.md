@@ -15,7 +15,7 @@ BSc Hons, Computer Science | First Grade Honors (4.0 GPA) | Liverpool John Moore
 
 ## Projects
 ### Liver Disease Prediction Model
-[Link to raw code and output](https://colab.research.google.com/drive/1sZp8bb4TNp-IHr0HyLazW3MW1n4ORkoR?usp=sharing)
+[Link to raw code and output](https://colab.research.google.com/drive/1sZp8bb4TNp-IHr0HyLazW3MW1n4ORkoR?usp=sharing) |
 [Link to assignment publication](https://drive.google.com/file/d/1ryL-yc9SyMxnV-WhVMAqTIo9ipf6qRzG/view?usp=sharing)
 
 Developed an Ai Machine Learning model using **Python** and data science techniques to predict if patients have Liver Disease. This Project was part of my Honors Assignment in Liverpool John Moores University. The project stages:
