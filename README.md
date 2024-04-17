@@ -2,6 +2,12 @@
 
 #### Technical Skills: Tableau, Python, SQL, Excel
 
+#### Contact Information
+
+- [Click here for my Linkedin](https://www.linkedin.com/in/aaqilshiraz/) <br>
+- Email: Aaqil9365@gmail.com
+- Phone: +971544021323
+
 ## Education
 BSc Hons, Computer Science | First Grade Honors (4.0 GPA) <br>
 Liverpool John Moores University (_April 2024_)
